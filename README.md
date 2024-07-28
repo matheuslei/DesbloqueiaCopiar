@@ -1,6 +1,3 @@
-Ótimo! Aqui está o conteúdo formatado para você colocar no arquivo `README.md` do seu repositório no GitHub:
-
-```markdown
 # Desbloqueio de Conteúdo HTML para Copiar
 
 ## Introdução
